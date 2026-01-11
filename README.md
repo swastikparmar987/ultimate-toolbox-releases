@@ -3,7 +3,6 @@
 ### The Weapon-Grade Power-User Suite
 **Ultimate Toolbox** is a comprehensive, all-in-one desktop utility suite designed for power users, developers, and creatives. It packs **70+ professional-grade tools** into a single, high-performance application with a sleek, futuristic interface.
 
-![Ultimate Toolbox Banner](https://images.unsplash.com/photo-1629654297299-c8506221ca97?q=80&w=2674&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 *(The Ultimate Toolbox Interface)*
 
 ---
@@ -70,4 +69,4 @@ Select the version for your operating system:
 ### ❤️ Support
 If you love this tool, please consider starring this repository!
 
-*Copyright © 2026 Ultimate Toolbox Team. All rights reserved.*
+Swastik Parmar 
