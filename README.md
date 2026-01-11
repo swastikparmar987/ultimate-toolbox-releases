@@ -14,9 +14,9 @@ Select the version for your operating system:
 
 | Platform | Download | Status |
 | :--- | :--- | :--- |
-| **Windows** | [**Download Setup (.exe)**](https://github.com/swastikparmar987/ultimate-toolbox-releases/releases/latest) | ✅ Stable |
-| **macOS** | [**Download App (.dmg)**](https://github.com/swastikparmar987/ultimate-toolbox-releases/releases/latest) | ✅ Stable (Apple Silicon & Intel) |
-| **Linux** | [**Download AppImage**](https://github.com/swastikparmar987/ultimate-toolbox-releases/releases/latest) | ✅ Stable |
+| **Windows** | [**Download Setup (.exe)**](https://github.com/swastikparmar987/ultimate-toolbox-releases/releases/latest/download/Ultimate-Toolbox-Setup.exe) | ✅ Stable |
+| **macOS** | [**Download App (.dmg)**](https://github.com/swastikparmar987/ultimate-toolbox-releases/releases/latest/download/Ultimate-Toolbox.dmg) | ✅ Stable (Apple Silicon & Intel) |
+| **Linux** | [**Download AppImage**](https://github.com/swastikparmar987/ultimate-toolbox-releases/releases/latest/download/Ultimate-Toolbox.AppImage) | ✅ Stable |
 
 [**View All Releases**](https://github.com/swastikparmar987/ultimate-toolbox-releases/releases)
 
